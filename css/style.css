@@ -1,0 +1,199 @@
+ * {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+.bg {
+
+    height: 1000px;
+
+    background-image: url(../img/main_bg.png);
+
+    background-repeat: no-repeat;
+
+
+    background-position: center;
+
+    background-size: cover;
+
+    text-align: center;
+
+
+}
+
+.logo_item {
+    padding-top: 38px;
+}
+
+
+.bg h6 {
+
+    padding-bottom: 53px;
+
+
+
+    font-size: 15px;
+
+    line-height: 24px;
+
+
+
+    align-items: center;
+
+    text-align: center;
+
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+
+}
+
+.style {
+    padding: 21px;
+
+    font-size: 41px;
+
+    line-height: 41px;
+
+    padding-top: 22px;
+
+
+
+    align-items: center;
+
+    text-align: center;
+
+    text-transform: uppercase;
+
+    color: #F9BF3B;
+
+}
+
+.main1 {
+
+
+    font-weight: 900;
+
+    font-size: 80px;
+
+    line-height: 80px;
+
+
+
+    align-items: center;
+
+    text-align: center;
+
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+
+}
+
+.bg h4 {
+
+
+
+
+    font-size: 21px;
+
+    width: 1144px;
+    height: 77px;
+
+
+    align-items: center;
+    text-align: center;
+
+    color: #FFFFFF;
+
+
+    padding-bottom: 72px;
+}
+
+
+.bg h4 {
+
+    font-weight: 300;
+
+    font-size: 21px;
+
+    line-height: 28px;
+
+
+    align-items: center;
+
+    text-align: center;
+
+    color: #FFFFFF;
+
+    padding-top: 91px;
+
+    margin-bottom: 95px;
+
+
+
+}
+.bg strong {
+    color: #F9BF3B;
+}
+
+.btn {
+
+    width: 313px;
+
+    height: 72px;
+
+    background: linear-gradient(0deg, #2798B9 0%, #3AB6DA 100%);
+
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.4);
+
+}
+
+.bg button {
+
+
+    font-size: 21px;
+
+    line-height: 24px;
+
+    align-items: center;
+
+    text-align: center;
+
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+
+    text-shadow: -1px -1px 0px rgba(0, 0, 0, 0.22);
+}
+
+.bg a h6 {
+
+    padding-top: 70px;
+    font-weight: 100;
+    font-size: 15px;
+    line-height: 24px;
+  
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+
+}
+.item2 {
+    padding: 2px;
+    
+}
+
+
+
+
+
+
+.container {
+    margin: 0 auto;
+    width: 1200px;
+}
